@@ -1,0 +1,2 @@
+opening the PowerBI by web through this link down below 
+https://app.powerbi.com/view?r=eyJrIjoiZmRhYTcyMWEtMzQ4YS00YzY5LThlOTUtN2RmYmM5NDFmNGY1IiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D
